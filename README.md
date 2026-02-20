@@ -1,5 +1,9 @@
 # OMS Office Operations AI
 
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent_Skills-FF6B35?style=for-the-badge)
+![License](https://img.shields.io/badge/License-grey?style=for-the-badge)
+
 AI-powered practice management system for Oral & Maxillofacial Surgery offices.
 
 ## Overview
